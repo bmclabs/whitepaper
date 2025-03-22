@@ -1,0 +1,134 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #14F195;
+  --ifm-color-primary-dark: #10d986;
+  --ifm-color-primary-darker: #0fc07a;
+  --ifm-color-primary-darkest: #0c9c65;
+  --ifm-color-primary-light: #2cf3a0;
+  --ifm-color-primary-lighter: #3af4a8;
+  --ifm-color-primary-lightest: #60f6ba;
+  --ifm-code-font-size: 95%;
+
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Space Mono', monospace;
+}
+
+/* For readability concerns, you should choose a lighter palette in light mode */
+html[data-theme='light'] {
+  --ifm-background-color: #f5f5f5;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-heading-color: #111111;
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #000000;
+  --ifm-background-surface-color: #111111;
+  --ifm-heading-color: var(--ifm-color-primary);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Custom styles */
+.navbar__logo {
+  width: 150px !important;
+  height: auto !important;
+}
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(20, 241, 149, 0.1);
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.footer {
+  background-color: #111;
+  border-top: 1px solid rgba(20, 241, 149, 0.2);
+}
+
+/* Pixel grid background */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: linear-gradient(rgba(20, 241, 149, 0.03) 1px, transparent 1px), 
+                    linear-gradient(90deg, rgba(20, 241, 149, 0.03) 1px, transparent 1px);
+  background-size: 20px 20px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Custom font for headings to mimic pixel font */
+h1, h2, h3, .navbar__title {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 3rem;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(20, 241, 149, 0.2);
+}
+
+th {
+  background-color: rgba(20, 241, 149, 0.1);
+  text-align: left;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.75rem 1rem;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid rgba(20, 241, 149, 0.1);
+}
+
+/* Callouts */
+.admonition {
+  border-radius: 8px;
+  border-left: 4px solid var(--ifm-color-primary);
+  background-color: rgba(20, 241, 149, 0.05);
+}
+
+/* Add some space to the main container */
+.container {
+  padding: 2rem 1rem;
+}
