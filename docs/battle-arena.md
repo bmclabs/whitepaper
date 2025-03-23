@@ -8,6 +8,8 @@ sidebar_position: 4
 
 The Battle Arena is the heart of the BMC platform, featuring live memecoin battles in a visually engaging retro-style interface.
 
+![BMC Battle Arena](/img/battle-arena.png)
+
 ## Features
 
 ### Live Match
@@ -22,6 +24,8 @@ The Battle Arena features a 24/7 live-streamed gaming experience with the follow
 - **Leaderboard**: Upcoming feature (Q2) that will track and display top bettors based on winnings and success rate
 
 ### Betting System
+
+![BMC Betting Panel](/img/betting-panel.png)
 
 Users can place bets on battle outcomes with the following rules:
 

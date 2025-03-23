@@ -65,4 +65,4 @@ BMC employs a hybrid governance model that balances centralized development with
 
 This comprehensive ecosystem creates a self-sustaining platform where all participants are incentivized to contribute to the long-term growth and success of the Battle Memecoin Club.
 
-![BMC Development Timeline](/img/together-bmc.png) 
+![BMC Memes Together](/img/together-bmc.png) 
