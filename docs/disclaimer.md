@@ -45,6 +45,18 @@ Battle Memecoin Club intends to operate in full compliance with applicable laws 
 
 Users are solely responsible for determining whether their participation in the BMC ecosystem is legal in their jurisdiction and for complying with all applicable laws.
 
+## Age Restriction and Legal Jurisdiction
+
+By accessing or using the Battle Memecoin Club platform, you represent and warrant that:
+
+1. **Minimum Age Requirement**: You are at least 18 years of age or the legal age of majority in your jurisdiction, whichever is higher.
+
+2. **Legal Jurisdiction**: Your access to and use of the BMC platform complies with all applicable laws and regulations in your country, state, or territory of residence.
+
+3. **Legal Capacity**: You have the legal capacity to enter into binding agreements and are not barred from using crypto-related services under the laws of any relevant jurisdiction.
+
+Battle Memecoin Club reserves the right to request verification of age and identity at any time. If we learn that someone under the age of 18 or the applicable legal age of majority is using our platform, we may prohibit and block access to their account and delete any related information.
+
 ## Risk Factors
 
 Participating in the Battle Memecoin Club ecosystem involves significant risks, including but not limited to:
