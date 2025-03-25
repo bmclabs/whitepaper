@@ -119,7 +119,7 @@ We're excited to build this future together with our community, one battle at a 
   <h2 style={{marginTop: '0'}}>Join the Club</h2>
   <p>
     Website: <strong>www.battlememecoin.club</strong><br />
-    Twitter: <strong>@BMCofficial</strong><br />
-    Discord: <strong>discord.gg/bmc</strong>
+    Twitter: <strong>@battlememecoin</strong><br />
+    Discord: <strong>https://discord.gg/Knnvu9zf5x</strong>
   </p>
 </div> 

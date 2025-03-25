@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'The Ultimate Memecoin Battle Platform',
   url: 'https://battlememecoin.club',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'bmc', // Usually your GitHub org/user name.
@@ -54,14 +54,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             rel: 'noopener noreferrer',
           },
           {
-            to: 'https://twitter.com/BMCofficial',
+            to: 'https://x.com/battlememecoin',
             label: 'Twitter',
             position: 'right',
             target: '_blank',
             rel: 'noopener noreferrer',
           },
           {
-            to: 'https://discord.gg/bmc',
+            to: 'https://discord.gg/Knnvu9zf5x',
             label: 'Discord',
             position: 'right',
             target: '_blank',
@@ -77,7 +77,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Abstract',
-                to: '/abstract',
+                to: '/',
               },
               {
                 label: 'Introduction',
@@ -115,11 +115,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/BMCofficial',
+                href: 'https://x.com/battlememecoin',
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/bmc',
+                href: 'https://discord.gg/Knnvu9zf5x',
               },
             ],
           },
