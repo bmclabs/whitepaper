@@ -76,11 +76,12 @@ Our development roadmap outlines the key milestones for the Battle Memecoin Club
         borderRadius: '8px',
         border: '1px solid rgba(20, 241, 149, 0.2)'
       }}>
-        <h3 style={{fontSize: '1.1rem', marginTop: '0'}}>Royal Syndicate NFT Mint</h3>
+        <h3 style={{fontSize: '1.1rem', marginTop: '0'}}>Battle Arena Development</h3>
         <ul style={{paddingLeft: '1.2rem', marginBottom: '0'}}>
-          <li>NFT artwork finalization</li>
-          <li>Candy Machine deployment</li>
-          <li>Mint event execution</li>
+          <li>Initial UI/UX design</li>
+          <li>Smart contract development</li>
+          <li>Core battle mechanics</li>
+          <li>Alpha testing</li>
         </ul>
       </div>
       <div className="milestone" style={{
@@ -89,12 +90,11 @@ Our development roadmap outlines the key milestones for the Battle Memecoin Club
         borderRadius: '8px',
         border: '1px solid rgba(20, 241, 149, 0.2)'
       }}>
-        <h3 style={{fontSize: '1.1rem', marginTop: '0'}}>Battle Arena Development</h3>
+        <h3 style={{fontSize: '1.1rem', marginTop: '0'}}>NFT Artwork Preparation</h3>
         <ul style={{paddingLeft: '1.2rem', marginBottom: '0'}}>
-          <li>Initial UI/UX design</li>
-          <li>Smart contract development</li>
-          <li>Core battle mechanics</li>
-          <li>Alpha testing</li>
+          <li>Royal Syndicate design concepts</li>
+          <li>Artwork creation process</li>
+          <li>Metadata structure planning</li>
         </ul>
       </div>
     </div>
@@ -115,7 +115,7 @@ Our development roadmap outlines the key milestones for the Battle Memecoin Club
       borderRadius: '50%',
       backgroundColor: 'var(--ifm-color-primary)'
     }}></div>
-    <h2 style={{marginTop: '0'}}>Q2 2025: Battle Activation</h2>
+    <h2 style={{marginTop: '0'}}>Q2 2025: Battle Activation & NFT Launch</h2>
     <div className="phase-content" style={{
       display: 'grid',
       gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))',
@@ -130,6 +130,21 @@ Our development roadmap outlines the key milestones for the Battle Memecoin Club
         <h3 style={{fontSize: '1.1rem', marginTop: '0'}}>Battle Live Platform Release</h3>
         <ul style={{paddingLeft: '1.2rem', marginBottom: '0'}}>
           <li>Public beta launch</li>
+          <li>Initial battle mechanics</li>
+          <li>First live matches</li>
+        </ul>
+      </div>
+      <div className="milestone" style={{
+        backgroundColor: 'rgba(20, 241, 149, 0.1)',
+        padding: '1rem',
+        borderRadius: '8px',
+        border: '1px solid rgba(20, 241, 149, 0.2)'
+      }}>
+        <h3 style={{fontSize: '1.1rem', marginTop: '0'}}>Royal Syndicate NFT Mint</h3>
+        <ul style={{paddingLeft: '1.2rem', marginBottom: '0'}}>
+          <li>NFT artwork finalization</li>
+          <li>Candy Machine deployment</li>
+          <li>Mint event execution</li>
         </ul>
       </div>
       <div className="milestone" style={{

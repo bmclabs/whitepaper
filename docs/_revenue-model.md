@@ -104,7 +104,7 @@ Based on market analysis and comparable projects, BMC projects the following rev
 
 | Phase | Timeline | Monthly Revenue Projection | Growth Drivers |
 |-------|----------|----------------------------|---------------|
-| Launch | Q1-Q2 2025 | $50,000 - $200,000 | Initial NFT sales, early adoption |
+| Launch | Q1-Q2 2025 | $50,000 - $200,000 | Battle Arena launch, NFT sales, early adoption |
 | Growth | Q3-Q4 2025 | $200,000 - $500,000 | Battle Arena scaling, user acquisition |
 | Expansion | Q1-Q2 2026 | $500,000 - $1,000,000 | Token launch, new features, partnerships |
 | Maturity | Q3+ 2026 | $1,000,000+ | Ecosystem expansion, network effects |

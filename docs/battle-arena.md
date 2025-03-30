@@ -41,7 +41,7 @@ Users can place bets on battle outcomes with the following rules:
 
 The 5% platform fee collected from all betting transactions in the Battle Arena is redistributed as follows:
 
-- 2% to existing Royal Syndicate NFT holders
+- 2% to existing Royal Syndicate NFT holders (beginning after the NFT mint in Q2 2025)
 - 3% to platform growth & operations (including development, infrastructure, and team)
 
 This fee structure ensures sustainable development while rewarding Royal Syndicate NFT holders with passive income from platform activity.

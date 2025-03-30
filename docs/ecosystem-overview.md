@@ -30,7 +30,7 @@ The Battle Memecoin Club ecosystem is designed as an interconnected platform wit
 The three components of the BMC ecosystem interact in the following ways:
 
 - **Battle Arena + SOL Token:** Users place bets using SOL on battle outcomes, with a portion of betting fees contributing to the platform's revenue pool.
-- **Royal Syndicate NFTs + Battle Arena:** Royal Syndicate NFT holders, known as The Nobles, gain VVIP access to the Nobles' Room, governance voting, and monthly revenue sharing from platform fees and royalties.
+- **Royal Syndicate NFTs + Battle Arena:** After the NFT mint in Q2 2025, Royal Syndicate NFT holders, known as The Nobles, gain VVIP access to the Nobles' Room, governance voting, and monthly revenue sharing from platform fees and royalties.
 - **Royal Syndicate NFTs + SOL Token:** NFT holders receive a share of platform revenue in SOL, proportional to their NFT holdings.
 
 > **Note:** During the initial phase, SOL will be used as the primary betting token. Upon the launch of the $BMC token in Q3 2025 (as outlined in the roadmap), the platform will transition to using $BMC as the primary betting currency, and the tokenomics described in the Tokenomics section will be fully implemented.

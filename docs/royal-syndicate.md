@@ -16,6 +16,7 @@ Royal Syndicate NFTs represent exclusive membership in the Battle Memecoin Club 
 - **Rarity Tiers**: None
 - **Mint Price**: TBA (in SOL)
 - **Secondary Marketplace**: Magic Eden, Tensor
+- **Mint Date**: Q2 2025
 
 ## NFT Artwork & Design
 
@@ -64,6 +65,27 @@ The Royal Syndicate NFT mint will occur in phases at https://battlememecoin.club
 3. **Public**: Remaining NFTs available for public mint (full price)
 
 *Note: Final mint prices will be announced closer to launch date (TBA).*
+
+## Wallet Eligibility Check
+
+Community members can verify their wallet's eligibility status for OG or WL minting by following these steps:
+
+1. Visit the official website: [https://battlememecoin.club](https://battlememecoin.club)
+2. Click on the "Connect Wallet" button in the top right corner
+3. Select your preferred Solana wallet (Phantom, Solflare, or Backpack)
+
+The system will display your wallet's current status:
+
+![Wallet Eligibility Check](/img/wallet-check.png)
+
+### Eligibility Status Categories:
+
+- **OG**: Early supporters, partners, and active community contributors granted special access to mint at a 50% discount
+- **WL**: Community members who participated in contests, events, or qualified through other community activities, eligible for a 20% discount
+- **Public**: Standard mint access during the public phase
+- **Not Eligible**: Wallets that have been flagged for suspicious activity or violating community guidelines
+
+If you believe there's an error with your eligibility status, please contact our team through the official Discord support channel.
 
 ## Secondary Market
 
